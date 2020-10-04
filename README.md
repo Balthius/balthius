@@ -1,8 +1,10 @@
 ### Hi there, My name is Josh.
 
+#### I enjoy learning how to solve problems and automate solutions through Code.
+
 ##### My dream job is working on Designing video games. I wasn't always the kid with the most games, but the ones I had I played into the ground. Shining soul 2, Warcraft 3, Diablo 1 & 2, Final Fantasy Tactics Advance, Age of Empires 2, Dragon Warrior Monsters, amd Command and Conquer: Red Alert were the titles I found most powerfuly shaped what I enjoy about games.
 
-##### from those titles I Developed an interest in trying to make my own games, and in order to do that, I tried, and have continued to try and learn all the bits and pieces that go into development. From dabbling in JASS in Warcraft 3, to eventually learning the power of C# and Unity, where my dabblings began to move into the realm of actual less spaghetti-ish code.
+##### from those titles I Developed an interest in trying to make my own games, and in order to do that, I tried, and have continued to try and learn all the bits and pieces that go into development. From dabbling in JASS in Warcraft 3, to eventually learning the power of C# and Unity, where my dabblings began to move into the realm of actual less spaghetti-ish code. Of particular interest in game design are Pathfinding, Procedural world generation, AI and the idea of game systems that are deep, but easy to pick up.
 
 ##### One unique challenge for me, since I have Aphantasia, is visualization. I know the looks and feel of what I want to create but often translating can be a bit of a problem, the positive side is I often get to act as "the client", where I know what I want but need to create something in order to see if it's the right fit. The rise in popularity of Agile, Rapid iteration develoment and prototyping has been nothing but good news for me and the way I operate. 
 
