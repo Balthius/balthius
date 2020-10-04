@@ -12,6 +12,7 @@
 - Dragon Warrior Monsters
 - Civilization II
 - Command and Conquer: Red Alert
+- Lemmings
 ##### There were many more, but these were the titles I found most powerfuly shaped what I enjoy about games.
 
 ##### From the games I played, books I read, really any creative endevour I took part in, I developed an interest in trying to make my own games, and in order to do that, I tried, and have continued to try and learn all the bits and pieces that go into development. From dabbling in JASS in Warcraft 3, to eventually learning the power of C# and Unity, where my dabblings began to move into the realm of legible, SOLID code. Of particular interest for me in game design are Pathfinding, Procedural world generation, AI and the idea of game systems that are deep, but easy to pick up.
