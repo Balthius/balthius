@@ -1,34 +1,19 @@
 ### Hi there, My name is Josh.
 
-#### I enjoy learning how to solve problems and automate solutions through Code.
+#### I enjoy learning how to solve problems and automate solutions through Code. I've found that the best learning methods for me have involved creating projects that I can put to personal use, or in some way engage with actively. I've created games to practice common patterns and adaptive design, One of my projects was as part of a team of developers and artists making a game as a college thesis project.
 
+#### I enjoy making a simple CRUD applications to learn pieces of front and back-end technology. Overall C# and the .NET framework is the most compelling but for extremely performant backend development I would turn to C++, and for quickly and painlessly coded projects I would likely turn to python, with javascript as my alternative.
 
-##### My dream job is working on Designing video games. I wasn't always the kid with the most games, but the ones I had I played into the ground. 
-- Shining soul 2
-- Warcraft 3
-- Diablo 1 & 2
-- Final Fantasy Tactics Advance
-- Age of Empires 2
-- Dragon Warrior Monsters
-- Civilization II
-- Command and Conquer: Red Alert
-- Lemmings
-##### There were many more, but these were the titles I found most powerfuly shaped what I enjoy about games.
+#### Currently I am working on learning React, Vue and Angular. I've spent most of my front-end learning focused on applications and aside from Razer Pages and Flask I feel I stand to gain the most by learning 3 of the more popular UI Frameworks for web development.
 
-##### From the games I played, books I read, really any creative endevour I took part in, I developed an interest in trying to make my own games, and in order to do that, I tried, and have continued to try and learn all the bits and pieces that go into development. From dabbling in JASS in Warcraft 3, to eventually learning the power of C# and Unity, where my dabblings began to move into the realm of legible, SOLID code. Of particular interest for me in game design are Pathfinding, Procedural world generation, AI and the idea of game systems that are deep, but easy to pick up.
-
-##### A few of my favorite games in the last few years have been:
-- Rimworld
-- Factorio
-- Path of Exile
-- Grid Dawn,
-- Oxygen not included
-- Monster Hunter World
-- Slay the Spire
-
-
-#### One unique challenge for me, since I have Aphantasia, is visualization. I know the looks and feel of what I want to create but often translating can be a bit of a problem, the positive side is I often get to act as "the client", where I know what I want but need to create something in order to see if it's the right fit. The rise in popularity of Agile, Rapid iteration develoment and prototyping has been nothing but good news for me and the way I operate. 
+#### My broad areas of focus in Development are: 
+- Automation and Machine learning: Developing AI, ranging from simple FSMs to more powerful, GOAP systems. I discovered these through game development but i hope to reverse-engineer them into more practical-use programs. The idea of creating these living, evolving, reactive systems is thrilling.
+- Procedural generation: Using things such as perlin noise to create "random" but well-bounded maps, datasets etc. As with machine learning there is a thrill to creating something that can exceed an individuals capability, and do so in the blink of an eye.
+- Reports: Creating Analysis machines that remove human error from the equation. The amount of time, dollars,and labor that can be saved by generated reports (if done correctly) is staggering.
+- Games: They are a vital tool for learning, with a tangible end-goal that can be tweaked, modifed and shared.
+- Teach: I've only been at this for 6, going on 7 years, I'm by no means a master developer, but either actively or passively, I want to help encourage others who have taken an interest in programming, so they can enjoy some of the great successes I did when I was encouraged by others over the past many years.
+- Learn, Learn, Learn. Every year has shown me that there is a bountiful supply of tools being created and updates, with millions of involved users leaning into the information age and helping eachother grow and evolve into competent developers.
 
 #### My personal website is [Studio Soluna](studiosoluna.com), My website has a 95/98/92/80 Lighthouse Audit.
 
-#### I am earning my Bachelor's degree in Data managment/Analytics from Western Governor's University.
+#### I am earning my Bachelor's degree in Data managment/Analytics from Western Governor's University. I began November 2020, and have completed 2 years worth of credits as of 3/9, with a projected graduation date in Mid-August.
