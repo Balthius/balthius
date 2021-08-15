@@ -2,7 +2,7 @@
 
 #### I enjoy learning how to solve problems and automate solutions through Code. I've found that the best learning methods for me have involved creating projects that I can put to personal use, or in some way engage with actively. I've created games to practice common patterns and adaptive design, One of my projects was as part of a team of developers and artists making a game as a college thesis project.
 
-#### I enjoy making a simple CRUD applications to learn pieces of front and back-end technology. Overall C# and the .NET framework is the most compelling but for extremely performant backend development I would turn to C++, and for quickly and painlessly coded projects I would likely turn to python, with javascript as my alternative.
+#### I enjoy making simple CRUD applications to learn pieces of front and back-end technology. Overall C# and the .NET framework is the most compelling but for extremely performant backend development I would turn to C++, and for quickly and painlessly coded projects I would likely turn to python, with javascript as my alternative.
 
 #### Currently I am working on learning React, Vue and Angular. I've spent most of my front-end learning focused on applications and aside from Razer Pages and Flask I feel I stand to gain the most by learning 3 of the more popular UI Frameworks for web development.
 
