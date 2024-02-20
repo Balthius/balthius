@@ -14,6 +14,4 @@
 - Teach: I've only been at this for 6, going on 7 years, I'm by no means a master developer, but either actively or passively, I want to help encourage others who have taken an interest in programming, so they can enjoy some of the great successes I did when I was encouraged by others over the past many years.
 - Learn, Learn, Learn. Every year has shown me that there is a bountiful supply of tools being created and updates, with millions of involved users leaning into the information age and helping eachother grow and evolve into competent developers.
 
-#### My personal website is [Studio Soluna](https://studiosolunalandingpage.azurewebsites.net), My website has a 95/98/92/80 Lighthouse Audit.
-
 #### I am earning my Bachelor's degree in Data managment/Analytics from Western Governor's University. I began November 2020, and have completed 2 years worth of credits as of 3/9, with a projected graduation date in Mid-August.
